@@ -1,6 +1,6 @@
 
 ## Rodrigues
-# Estutando React-Navigation
+# Estudando React-Navigation
 
 Eu queria aprender mais sobre como usar o React-Navigation, para poder mandar informação de uma pagina para outra, então creiei esse simples projeto.
 
